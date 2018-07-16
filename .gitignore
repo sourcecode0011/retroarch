@@ -1,0 +1,14 @@
+*.so
+
+*.o
+
+*.a
+
+SPIRV-Cross
+/
+
+cpu/
+obj/
+bin/
+gen/
+obj/
